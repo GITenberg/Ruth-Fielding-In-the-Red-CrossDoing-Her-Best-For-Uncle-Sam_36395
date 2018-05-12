@@ -1,0 +1,35 @@
+_repo: Ruth-Fielding-In-the-Red-CrossDoing-Her-Best-For-Uncle-Sam_36395
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: Ruth, Helen, and Jennie "Heavy" Stone attend Ardmore College together.
+  Ruth continues to write moving picture scenarios and achieves even greater success.
+  The girls leave college when the Great War begins and travel to Europe to help with
+  the war effort. In time, the war ends, and Jennie Stone marries a French soldier.
+  Tom Cameron suggests that he and Ruth make plans for their future, but Ruth wants
+  a career and feels that marriage would be an obstacle. Ruth also feels that Tom
+  is lazy and wants him to prove himself before they make a commitment.
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Patriotism -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcsh 'France -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+title: Ruth Fielding in the Red Cross; Or, Doing Her Best for Uncle Sam
+url: http://www.gutenberg.org/ebooks/36395
